@@ -1,0 +1,6 @@
+<view class="container">
+  <image class="logo" src="/images/search-logo.png"></image>
+  <text class="name">咩咩辞典 v0.0.1</text>
+  <text class="name">内测版</text>
+  
+</view>
